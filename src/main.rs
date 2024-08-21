@@ -1,3 +1,9 @@
+/** ------------------------------------------------
+ *  Defining and Instantiating Structs
+ *  Using the Field Init Shorthand
+ *  Creating Instances from Other Instances with Struct Update Syntax
+ ** ------------------------------------------------*/
+
 #[derive(Debug)]
 #[allow(dead_code)]
 struct User {
